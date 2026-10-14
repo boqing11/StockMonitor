@@ -1,0 +1,8 @@
+# 运行状态与日志（含巡检状态、cron 日志）不入库
+/Runtime/*
+!/Runtime/
+!.gitkeep
+
+# 后台插件配置缓存（可能含敏感配置，勿提交）
+/Config/Config
+/Config/System

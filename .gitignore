@@ -1,0 +1,14 @@
+# 运行状态与自动备份（本地产物，不提交）
+StockMonitor/Runtime/state.json
+StockMonitor/Runtime/*.log
+*.bak-*
+*.bak-fix-*
+*.bak-dbcheck-*
+
+# 打包产物
+*.zip
+
+# 编辑器
+.idea/
+.vscode/
+.DS_Store
