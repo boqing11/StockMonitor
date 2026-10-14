@@ -1,7 +1,7 @@
-# GitHub 发布材料（复制即用）
+# GitHub 发布材料
 
 > 三个部分：仓库 About 描述、Topics 话题标签、v1.0.0 Release 说明。  
-> 发布到 GitHub 时直接复制对应区块粘贴即可。
+
 
 ---
 
